@@ -3,8 +3,6 @@
 - 🌱 I’m currently a Master's student of Computer Science at The University of Hong Kong.
 - 📫 Reach me: yanfeiWANG9985@outlook.com 
 
-# Wang Yanfei | Portfolio
-
 ### 📚 Education
 **The University of Hong Kong**  
 *Master of Science in Computer Science | Sept 2024 – Aug 2025*  
